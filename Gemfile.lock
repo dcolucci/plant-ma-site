@@ -1,10 +1,3 @@
-GIT
-  remote: https://github.com/dcolucci/Mekyll
-  revision: be78ad7ffc1205120c4d846b0f22022ec7e89ba9
-  ref: be78ad7ffc1205120c4d846b0f22022ec7e89ba9
-  specs:
-    mekyll-dac (1.0.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -84,7 +77,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.0.1)
   jekyll-feed (~> 0.12)
-  mekyll-dac (= 1.0.0)!
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
