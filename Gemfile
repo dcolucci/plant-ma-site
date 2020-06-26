@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.0.1"
+# gem "jekyll", "~> 4.0.1"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
 # I wanted to use the custom-head.html feature to inject custom CSS, but it is not
@@ -18,7 +18,8 @@ gem "minima", github: "jekyll/minima", ref: "49f6dce0727a2441f0b0c265b41b5efc7b0
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed", "~> 0.11"
+  gem "github-pages", "202"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
