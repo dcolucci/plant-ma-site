@@ -22,10 +22,8 @@ title: Agatha Isabel
 email: agatha@agathaisabel.com
 description: >- # this means to ignore newlines until "baseurl:"
   Digital risk professional, plant enthusiast and small business owner.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://www.agathaisabel.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
