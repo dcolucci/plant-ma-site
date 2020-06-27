@@ -27,3 +27,5 @@ layout: standalone
 </a>
 
 <a href="https://www.instagram.com/plant.ma" target="_blank"><strong>[Visit]</strong> Plant Ma on Instagram</a>
+
+<small class="site-attribution"><em>Plant Ma by <a href="https://www.linkedin.com/in/agathaisabel" target="_blank">Agatha Isabel</a></em></small>
