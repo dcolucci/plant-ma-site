@@ -3,7 +3,7 @@ layout: standalone
 title: Planting for Progress
 permalink: /planting-for-progress/
 ---
-![logo](/assets/images/planting-for-progress-logo.jpg)
+![logo](/assets/images/planting-for-progress-logo.png)
 
 # Planting for Progress
 
