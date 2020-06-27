@@ -8,6 +8,22 @@ layout: standalone
 # layout: home
 ---
 
-# @plant.ma
+<a href="/planting-for-progress">
+  ![logo](/assets/images/planting-for-progress-logo.png)
+</a>
 
-[Planting for Progress](/planting-for-progress)
+[**\[Learn More\]** Planting for Progress](/planting-for-progress)
+
+<a href="https://etsy.com/shop/PlantMaShop" target="_blank">
+  ![logo](/assets/images/plant-ma-shop-logo.png)
+</a>
+
+<a href="http://etsy.com/shop/PlantMaShop" target="_blank"><strong>[Shop Now]</strong> Plant Ma Shop on Etsy</a>
+
+<a href="https://www.amazon.com/shop/plant.ma" target="_blank"><strong>[Shop Now]</strong> Plant Ma necessities on Amazon</a>
+
+<a href="https://www.instagram.com/plant.ma" target="_blank">
+  ![logo](/assets/images/plant-ma-logo.png)
+</a>
+
+<a href="https://www.instagram.com/plant.ma" target="_blank"><strong>[Visit]</strong> Plant Ma on Instagram</a>
