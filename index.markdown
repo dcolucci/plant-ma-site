@@ -8,12 +8,6 @@ layout: standalone
 # layout: home
 ---
 
-<a href="/planting-for-progress">
-  ![logo](/assets/images/planting-for-progress-logo.png)
-</a>
-
-[**\[Learn More\]** Planting for Progress](/planting-for-progress)
-
 <a href="https://etsy.com/shop/PlantMaShop" target="_blank">
   ![logo](/assets/images/plant-ma-shop-logo.png)
 </a>
@@ -21,6 +15,14 @@ layout: standalone
 <a href="http://etsy.com/shop/PlantMaShop" target="_blank"><strong>[Shop Now]</strong> Plant Ma Shop on Etsy</a>
 
 <a href="https://www.amazon.com/shop/plant.ma" target="_blank"><strong>[Shop Now]</strong> Plant Ma necessities on Amazon</a>
+
+![logo](/assets/images/planting-for-progress-logo.png)
+
+<!-- this page is a WIP -->
+<!-- [**\[Learn More\]** Planting for Progress](/planting-for-progress) -->
+<p style="color:#999999;"><strong>[Coming Soon]</strong> Planting for Progress</p>
+
+[More info about Planting for Progress here](https://linktr.ee/plant.ma)
 
 <a href="https://www.instagram.com/plant.ma" target="_blank">
   ![logo](/assets/images/plant-ma-logo.png)
