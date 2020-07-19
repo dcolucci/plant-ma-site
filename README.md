@@ -11,6 +11,4 @@ $ bundle exec jekyll serve
 
 ## Deployment
 
-The site is currently deployed using GitHub Pages, leveraging GitHub Actions. **[This guide was followed to get this set up](https://jekyllrb.com/docs/continuous-integration/github-actions/)**.
-
-To deploy the site, simply push branch `master` to https://github.com/agathaisabel/agathaisabel.github.io.
+The site is currently deployed using AWS Amplify. Any changes pushed to `master` will be automatically deployed to www.agathaisabel.com.
