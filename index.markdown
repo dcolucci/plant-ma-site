@@ -12,7 +12,9 @@ layout: standalone
   ![logo](/assets/images/plant-ma-shop-logo.png)
 </a>
 
-<a href="http://etsy.com/shop/PlantMaShop" target="_blank"><strong>[Shop Now]</strong> Plant Ma Shop on Etsy</a>
+<a href="https://etsy.com/shop/PlantMaShop" target="_blank"><strong>[Shop Now]</strong> Plant Ma Shop on Etsy</a>
+
+<a href="https://www.ebay.com/usr/plantmashop" target="_blank"><strong>[Bid Now]</strong> Plant Ma auctions on Ebay</a>
 
 <a href="https://www.amazon.com/shop/plant.ma" target="_blank"><strong>[Shop Now]</strong> Plant Ma necessities on Amazon</a>
 
