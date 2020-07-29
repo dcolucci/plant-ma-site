@@ -12,6 +12,12 @@ layout: standalone
   ![logo](/assets/images/plant-ma-shop-logo.png)
 </a>
 
+<a href="https://www.cnn.com/2020/07/27/cnn-underscored/how-to-take-care-of-plants/index.html" target="_blank"><strong>[Read Now] Plant Tips from Agatha on CNN</strong></a>
+
+<a href="https://www.liquidirt.com" target="_blank"><strong>[Buy Now]</strong> Liqui-dirt fertilizer | 25% off $20+ with code “PLANTMA_25”</a>
+
+•&nbsp;•&nbsp;•
+
 <a href="https://etsy.com/shop/PlantMaShop" target="_blank"><strong>[Shop Now]</strong> Plant Ma Shop on Etsy</a>
 
 <a href="https://www.ebay.com/usr/plantmashop" target="_blank"><strong>[Bid Now]</strong> Plant Ma auctions on Ebay</a>
