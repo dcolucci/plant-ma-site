@@ -16,6 +16,8 @@ layout: standalone
 
 <a href="https://www.liquidirt.com" target="_blank"><strong>[Buy Now]</strong> Liqui-dirt fertilizer | 25% off $20+ with code “PLANTMA_25”</a>
 
+<a href="https://society6.com/aisabel716" target="_blank"><strong>[Shop Art]</strong> Agatha Isabel on Society6</a>
+
 •&nbsp;•&nbsp;•
 
 <a href="https://etsy.com/shop/PlantMaShop" target="_blank"><strong>[Shop Now]</strong> Plant Ma Shop on Etsy</a>
