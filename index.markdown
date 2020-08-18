@@ -4,7 +4,7 @@
 
 # note - we're using the standalone layout as a placeholder
 # until we build out the homepage a little bit further.
-layout: standalone
+layout: standalone-center
 # layout: home
 ---
 
@@ -26,13 +26,11 @@ layout: standalone
 
 <a href="https://www.amazon.com/shop/plant.ma" target="_blank"><strong>[Shop Now]</strong> Plant Ma necessities on Amazon</a>
 
-![logo](/assets/images/planting-for-progress-logo.png)
+<a href="/planting-for-progress">
+  ![logo](/assets/images/planting-for-progress-logo.png)
+</a>
 
-<!-- this page is a WIP -->
-<!-- [**\[Learn More\]** Planting for Progress](/planting-for-progress) -->
-<p style="color:#999999;"><strong>[Coming Soon]</strong> Planting for Progress</p>
-
-[More info about Planting for Progress here](https://linktr.ee/plant.ma)
+[Learn more about Planting for Progress](/planting-for-progress)
 
 <a href="https://www.instagram.com/plant.ma" target="_blank">
   ![logo](/assets/images/plant-ma-logo.png)

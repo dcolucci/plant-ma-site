@@ -1,14 +1,8 @@
 ---
 ---
 
-.standalone-page {
-  h1,
-  h2,
-  h3,
-  p {
-    text-align: center;
-  }
-
+.standalone-page,
+.standalone-center-page {
   h2,
   h3 {
     margin-top: 40px;
@@ -26,5 +20,14 @@
   .site-attribution,
   .site-attribution a {
     color: #999999;
+  }
+}
+
+.standalone-center-page {
+  h1,
+  h2,
+  h3,
+  p {
+    text-align: center;
   }
 }
