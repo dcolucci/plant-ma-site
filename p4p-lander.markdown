@@ -5,6 +5,8 @@ permalink: /planting-for-progress/
 ---
 ![logo](/assets/images/planting-for-progress-logo.png)
 
+# <a href="https://www.gofundme.com/f/planting-for-progress-donors" target="_blank">Donate to our GoFundMe!</a>
+
 # Planting for Progress
 
 Planting for Progress is a community-sourced project started by Agatha Isabel (<a href="https://www.instagram.com/plant.ma" target="_blank">@plant.ma</a>). Members of our community donate plants to be auctioned, and the proceeds are donated to local organizations and non-profits. The project started as a way to support Black Lives Matter and has since expanded to other causes, including LGBTQ+, voting rights and various NYC-local organizations.
