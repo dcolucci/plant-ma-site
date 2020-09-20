@@ -10,11 +10,11 @@ layout: standalone-center
 
 <a class="pop" href="https://www.gofundme.com/f/planting-for-progress-donors" target="_blank"><strong>[Contribute Now] Planting for Progress GoFundMe</strong></a>
 
-<a href="/planting-for-progress">
+<a href="https://plantingforprogress.org" target="_blank">
   ![logo](/assets/images/planting-for-progress-logo.png)
 </a>
 
-<a class="pop" href="/planting-for-progress"><strong>[Visit PFP]</strong> Learn More About Planting for Progress</a>
+<a class="pop" href="https://plantingforprogress.org" target="_blank"><strong>[Visit PFP]</strong> Learn More About Planting for Progress</a>
 
 <a href="https://etsy.com/shop/PlantMaShop" target="_blank">
   ![logo](/assets/images/plant-ma-shop-logo.png)
