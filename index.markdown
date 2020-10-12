@@ -7,37 +7,48 @@
 layout: standalone-center
 # layout: home
 ---
+<a href="https://www.instagram.com/plant.ma" target="_blank">
+  ![plant ma headshot](/assets/images/plant-ma-headshot.jpg)
+</a>
 
-<a class="pop" href="https://www.gofundme.com/f/planting-for-progress-donors" target="_blank"><strong>[Contribute Now] Planting for Progress GoFundMe</strong></a>
+<!-- ![logo](/assets/images/plant-ma-logo-small copy test.jpg) -->
+
+## Shop Links
+
+<!-- <a href="https://etsy.com/shop/PlantMaShop" target="_blank">
+  ![logo](/assets/images/plant-ma-shop-logo.png)
+</a> -->
+
+<a href="https://etsy.com/shop/PlantMaShop" target="_blank">Plant Ma Shop on Etsy</a>
+
+<a href="https://www.ebay.com/usr/plantmashop" target="_blank">Plant Ma Auctions on Ebay</a>
+
+<a href="https://www.amazon.com/shop/plant.ma" target="_blank">Plant Ma Necessities on Amazon</a>
+
+<a href="https://www.liquidirt.com" target="_blank">Liqui-dirt | 25% off $20+ with code “PLANTMA_25”</a>
+
+<a href="https://society6.com/aisabel716" target="_blank">Agatha Isabel on Society6</a>
+
+## Media Links
+
+<a href="https://repeller.com/best-tips-for-keeping-pllants-alive" target="_blank">Interview with Repeller</a>
+
+<a href="https://www.cnn.com/2020/07/27/cnn-underscored/how-to-take-care-of-plants/index.html" target="_blank">Agatha on CNN Underscored</a>
+
+<a href="https://bloomandgrowradio.com/together" target="_blank">Agatha discusses PFP with Bloom & Grow Radio</a>
 
 <a href="https://plantingforprogress.org" target="_blank">
-  ![logo](/assets/images/planting-for-progress-logo.png)
+  ![Planting for Progress logo](/assets/images/planting-for-progress-logo.png)
 </a>
 
-<a class="pop" href="https://plantingforprogress.org" target="_blank"><strong>[Visit PFP]</strong> Learn More About Planting for Progress</a>
+<a href="https://www.gofundme.com/f/planting-for-progress-donors" target="_blank">Planting for Progress GoFundMe</a>
 
-<a href="https://etsy.com/shop/PlantMaShop" target="_blank">
-  ![logo](/assets/images/plant-ma-shop-logo.png)
-</a>
-
-<a href="https://www.cnn.com/2020/07/27/cnn-underscored/how-to-take-care-of-plants/index.html" target="_blank"><strong>[Read Now] Plant Tips from Agatha on CNN</strong></a>
-
-<a href="https://www.liquidirt.com" target="_blank"><strong>[Buy Now]</strong> Liqui-dirt Fertilizer | 25% off $20+ with code “PLANTMA_25”</a>
-
-<a href="https://society6.com/aisabel716" target="_blank"><strong>[Shop Art]</strong> Agatha Isabel on Society6</a>
+<a href="https://plantingforprogress.org" target="_blank">Learn More About Planting for Progress</a>
 
 •&nbsp;•&nbsp;•
 
-<a href="https://etsy.com/shop/PlantMaShop" target="_blank"><strong>[Shop Now]</strong> Plant Ma Shop on Etsy</a>
-
-<a href="https://www.ebay.com/usr/plantmashop" target="_blank"><strong>[Bid Now]</strong> Plant Ma Auctions on Ebay</a>
-
-<a href="https://www.amazon.com/shop/plant.ma" target="_blank"><strong>[Shop Now]</strong> Plant Ma Necessities on Amazon</a>
+<p><a href="https://www.instagram.com/plant.ma" target="_blank">Plant Ma</a> &reg; by <a href="https://www.linkedin.com/in/agathaisabel" target="_blank">Agatha Isabel</a></p>
 
 <a href="https://www.instagram.com/plant.ma" target="_blank">
-  ![logo](/assets/images/plant-ma-logo.png)
+  ![Plant Ma logo](/assets/images/plant-ma-logo.png)
 </a>
-
-<a href="https://www.instagram.com/plant.ma" target="_blank"><strong>[Visit]</strong> Plant Ma on Instagram</a>
-
-<small class="site-attribution"><em>Plant Ma by <a href="https://www.linkedin.com/in/agathaisabel" target="_blank">Agatha Isabel</a></em></small>
