@@ -14,31 +14,27 @@ layout: standalone-center
   <figcaption class="credit">Photography by Rachel Beth Anderson</figcaption>
 </figure>
 
-<!-- ![logo](/assets/images/plant-ma-logo-small copy test.jpg) -->
-
 ## Shop Links
 
-<!-- <a href="https://etsy.com/shop/PlantMaShop" target="_blank">
-  ![logo](/assets/images/plant-ma-shop-logo.png)
-</a> -->
+<a href="https://etsy.com/shop/PlantMaShop" target="_blank">Plant Ma Shop on <strong>Etsy</strong></a>
 
-<a href="https://etsy.com/shop/PlantMaShop" target="_blank">Plant Ma Shop on Etsy</a>
+<a href="https://www.ebay.com/usr/plantmashop" target="_blank">Plant Ma Auctions on <strong>Ebay</strong></a>
 
-<a href="https://www.ebay.com/usr/plantmashop" target="_blank">Plant Ma Auctions on Ebay</a>
+<a href="https://www.amazon.com/shop/plant.ma" target="_blank">Plant Ma Necessities on <strong>Amazon</strong></a>
 
-<a href="https://www.amazon.com/shop/plant.ma" target="_blank">Plant Ma Necessities on Amazon</a>
+<a href="https://society6.com/aisabel716" target="_blank">Agatha Isabel on <strong>Society6</strong></a>
+
+## Discounts & Partnerships
 
 <a href="https://www.liquidirt.com" target="_blank">Liqui-dirt | 25% off $20+ with code “PLANTMA_25”</a>
 
-<a href="https://society6.com/aisabel716" target="_blank">Agatha Isabel on Society6</a>
-
 ## Media Links
 
-<a href="https://repeller.com/best-tips-for-keeping-pllants-alive" target="_blank">Interview with Repeller</a>
+<a href="https://repeller.com/best-tips-for-keeping-pllants-alive" target="_blank">Agatha's interview with <strong>Repeller</strong></a>
 
-<a href="https://www.cnn.com/2020/07/27/cnn-underscored/how-to-take-care-of-plants/index.html" target="_blank">Agatha on CNN Underscored</a>
+<a href="https://www.cnn.com/2020/07/27/cnn-underscored/how-to-take-care-of-plants/index.html" target="_blank">Agatha on <strong>CNN Underscored</strong></a>
 
-<a href="https://bloomandgrowradio.com/together" target="_blank">Agatha discusses PFP with Bloom & Grow Radio</a>
+<a href="https://bloomandgrowradio.com/together" target="_blank">Agatha discusses PFP with <strong>Bloom & Grow Radio</strong></a>
 
 <a href="https://plantingforprogress.org" target="_blank">
   ![Planting for Progress logo](/assets/images/planting-for-progress-logo.png)
