@@ -10,6 +10,7 @@ layout: standalone-center
 <a href="https://www.instagram.com/plant.ma" target="_blank">
   ![plant ma headshot](/assets/images/plant-ma-headshot.jpg)
 </a>
+<cite class="cite">Photography by Rachel Beth Anderson</cite>
 
 <!-- ![logo](/assets/images/plant-ma-logo-small copy test.jpg) -->
 
@@ -48,6 +49,9 @@ layout: standalone-center
 •&nbsp;•&nbsp;•
 
 <p><a href="https://www.instagram.com/plant.ma" target="_blank">Plant Ma</a> &reg; by <a href="https://www.linkedin.com/in/agathaisabel" target="_blank">Agatha Isabel</a></p>
+
+![Plant Ma in her home](/assets/images/plant-ma-in-home.jpg)
+<cite class="cite">Photography by Ryan Razon for Repeller</cite>
 
 <a href="https://www.instagram.com/plant.ma" target="_blank">
   ![Plant Ma logo](/assets/images/plant-ma-logo.png)
