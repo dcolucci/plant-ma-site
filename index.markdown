@@ -7,10 +7,12 @@
 layout: standalone-center
 # layout: home
 ---
-<a href="https://www.instagram.com/plant.ma" target="_blank">
-  ![plant ma headshot](/assets/images/plant-ma-headshot.jpg)
-</a>
-<cite class="cite">Photography by Rachel Beth Anderson</cite>
+<figure>
+  <a href="https://www.instagram.com/plant.ma" target="_blank">
+    <img alt="Plant Ma headshot" src="/assets/images/plant-ma-headshot.jpg">
+  </a>
+  <figcaption class="credit">Photography by Rachel Beth Anderson</figcaption>
+</figure>
 
 <!-- ![logo](/assets/images/plant-ma-logo-small copy test.jpg) -->
 
@@ -50,8 +52,10 @@ layout: standalone-center
 
 <p><a href="https://www.instagram.com/plant.ma" target="_blank">Plant Ma</a> &reg; by <a href="https://www.linkedin.com/in/agathaisabel" target="_blank">Agatha Isabel</a></p>
 
-![Plant Ma in her home](/assets/images/plant-ma-in-home.jpg)
-<cite class="cite">Photography by Ryan Razon for Repeller</cite>
+<figure>
+  <img src="/assets/images/plant-ma-in-home.jpg" alt="Plant Ma in her home">
+  <figcaption class="credit">Photography by Ryan Razon for Repeller</figcaption>
+</figure>
 
 <a href="https://www.instagram.com/plant.ma" target="_blank">
   ![Plant Ma logo](/assets/images/plant-ma-logo.png)
