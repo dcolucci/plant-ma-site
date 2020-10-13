@@ -28,6 +28,8 @@ layout: standalone-center
 
 <a href="https://www.liquidirt.com" target="_blank">Liqui-dirt | 25% off $20+ with code “PLANTMA_25”</a>
 
+<a href="https://soltechsolutions.com" target="_blank">Soltech Solutions | 15% off with code “plantma15”</a>
+
 ## Media Links
 
 <a href="https://repeller.com/best-tips-for-keeping-pllants-alive" target="_blank">Agatha's interview with <strong>Repeller</strong></a>
