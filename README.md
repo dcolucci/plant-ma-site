@@ -4,6 +4,16 @@ A static site for Plant Ma content, powered by [Jekyll](https://jekyllrb.com).
 
 ## Local dev
 
+Make sure you are using the required version of Ruby: **2.6 or above**
+```sh
+$ rvm use 2.6
+```
+
+Install dependencies
+```sh
+$ bundle install
+```
+
 Start server
 ```sh
 $ bundle exec jekyll serve
