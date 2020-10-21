@@ -55,6 +55,12 @@ layout: standalone-center
   <figcaption class="credit">Photography by Ryan Razon for Repeller</figcaption>
 </figure>
 
+## About Agatha
+
+<p>Agatha is a digital risk professional by day, plant lover 24/7. She has always been fond of nature, growing up with plants for inside and outside her home. She began her plant collection when she moved to the East Coast from the West Coast, and has grown not only a collection, but a community. Follow her and her plant collection on <a href="https://www.instagram.com/plant.ma" target="_blank">@plant.ma</a></p>
+
 <a href="https://www.instagram.com/plant.ma" target="_blank">
   ![Plant Ma logo](/assets/images/plant-ma-logo.png)
 </a>
+
+<cite>For press and marketing questions, please contact <a href="mailto:plantma@agathaisabel.com">plantma@agathaisabel.com</a><cite>
