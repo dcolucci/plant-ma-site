@@ -14,6 +14,12 @@ layout: standalone-center
   <figcaption class="credit">Photography by Rachel Beth Anderson</figcaption>
 </figure>
 
+<h3>
+  🌟 <a href="https://plantmashop.com" target="_blank">Now introducing "Plant Ma Gift Boxes" through <strong>PlantMaShop.com</strong></a> 🌟
+</h3>
+
+👀 _Plus: 1-1 houseplant virtual consultations <a href="https://plantmashop.com" target="_blank">launching soon!</a>_
+
 ## Shop Links
 
 <a href="https://etsy.com/shop/PlantMaShop" target="_blank">Plant Ma Shop on <strong>Etsy</strong></a>
