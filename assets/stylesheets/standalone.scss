@@ -41,3 +41,14 @@
     text-align: center;
   }
 }
+
+.figure-small {
+  @media screen and (min-width: 500px) {
+    margin: auto;
+    width: 400px;
+  }
+}
+
+.my-highlight {
+  font-size: 20px;
+}

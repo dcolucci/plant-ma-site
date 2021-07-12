@@ -7,20 +7,24 @@
 layout: standalone-center
 # layout: home
 ---
-<figure>
+<figure class="figure-small">
   <a href="https://www.instagram.com/plant.ma" target="_blank">
     <img alt="Plant Ma headshot" src="/assets/images/plant-ma-headshot.jpg">
   </a>
   <figcaption class="credit">Photography by Rachel Beth Anderson</figcaption>
 </figure>
 
-<h3>
-  🌟 <a href="https://plantmashop.com" target="_blank">Now introducing "Plant Ma Gift Boxes" through <strong>PlantMaShop.com</strong></a> 🌟
-</h3>
+## About Agatha
 
-👀 _Plus: 1-1 houseplant virtual consultations <a href="https://plantmashop.com" target="_blank">launching soon!</a>_
+Agatha is a digital risk professional by day, plant lover 24/7. She has always been fond of nature, growing up with plants for inside and outside her home. She began her plant collection when she moved to the East Coast from the West Coast, and has grown not only a collection, but a community. Follow her and her plant collection on <a href="https://www.instagram.com/plant.ma" target="_blank">@plant.ma</a>
 
-## Shop Links
+## Plant Ma Shop
+
+<p class="my-highlight">Visit <strong><a href="http://www.plantmashop.com" target="_blank">plantmashop.com</a></strong> for houseplants, consultations and products</p>
+
+<em>Follow us on Instagram: <strong><a href="https://www.instagram.com/plantmashop" target="_blank">@plantmashop</a></strong></em>
+
+## Other Shop Links
 
 <a href="https://etsy.com/shop/PlantMaShop" target="_blank">Plant Ma Shop on <strong>Etsy</strong></a>
 
@@ -56,17 +60,20 @@ layout: standalone-center
 
 <p><a href="https://www.instagram.com/plant.ma" target="_blank">Plant Ma</a> &reg; by <a href="https://www.linkedin.com/in/agathaisabel" target="_blank">Agatha Isabel</a></p>
 
-<figure>
+<figure class="figure-small">
   <img src="/assets/images/plant-ma-in-home.jpg" alt="Plant Ma in her home">
   <figcaption class="credit">Photography by Ryan Razon for Repeller</figcaption>
 </figure>
 
-## About Agatha
+<figure class="figure-small">
+  <a href="https://www.instagram.com/plant.ma" target="_blank">
+    <img src="/assets/images/plant-ma-logo.png" alt="Plant Ma logo">
+  </a>
+</figure>
 
-Agatha is a digital risk professional by day, plant lover 24/7. She has always been fond of nature, growing up with plants for inside and outside her home. She began her plant collection when she moved to the East Coast from the West Coast, and has grown not only a collection, but a community. Follow her and her plant collection on <a href="https://www.instagram.com/plant.ma" target="_blank">@plant.ma</a>
-
-<a href="https://www.instagram.com/plant.ma" target="_blank">
-  ![Plant Ma logo](/assets/images/plant-ma-logo.png)
-</a>
+<!-- Picture is too small - fix later -->
+<!-- <figure class="figure-small">
+  <img src="/assets/images/plant-ma-shop-logo-color.jpg" alt="Plant Ma Shop color logo">
+</figure> -->
 
 <cite>For press and marketing questions, please contact <a href="mailto:plantma@agathaisabel.com">plantma@agathaisabel.com</a><cite>

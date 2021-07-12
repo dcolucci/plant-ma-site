@@ -14,6 +14,8 @@ Install dependencies
 $ bundle install
 ```
 
+> If you have problems with `bundle install`, [this page might provide some tips](https://bundler.io/blog/2019/05/14/solutions-for-cant-find-gem-bundler-with-executable-bundle.html).
+
 Start server
 ```sh
 $ bundle exec jekyll serve
