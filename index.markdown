@@ -76,4 +76,6 @@ Agatha is a digital risk professional by day, plant lover 24/7. She has always b
   <img src="/assets/images/plant-ma-shop-logo-color.jpg" alt="Plant Ma Shop color logo">
 </figure> -->
 
+<!-- test comment foobar -->
+
 <cite>For press and marketing questions, please contact <a href="mailto:plantma@agathaisabel.com">plantma@agathaisabel.com</a><cite>
