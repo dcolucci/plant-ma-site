@@ -29,4 +29,8 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
+# Jekyll appears to specify versions of these dependencies that require ruby 2.5+
+# However, AWS Amplify appears to run images that use ruby 2.4.x
+# Pinning these for now as a lazy workaround
 gem "jekyll-seo-tag", "2.6.1"
+gem "jekyll-sass-converter", "2.1.0"
